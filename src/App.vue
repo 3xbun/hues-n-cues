@@ -3,20 +3,24 @@
     <h1>สีสันบันเทิง</h1>
     <div class="colors">
       <div class="choice">
-        <div class="color" :style="{ 'background-color': '#' + choice1.HEX }"></div>
-        <h1 class="colorName">{{ choice1.CODE }}</h1>
+        <div class="color" :style="{ 'background-color': '#' + choice1.HEX }">
+          <h2 class="colorName">{{ choice1.CODE }}</h2>
+        </div>
       </div>
       <div class="choice">
-        <div class="color" :style="{ 'background-color': '#' + choice2.HEX }"></div>
-        <h1 class="colorName">{{ choice2.CODE }}</h1>
+        <div class="color" :style="{ 'background-color': '#' + choice2.HEX }">
+          <h2 class="colorName">{{ choice2.CODE }}</h2>
+        </div>
       </div>
       <div class="choice">
-        <div class="color" :style="{ 'background-color': '#' + choice3.HEX }"></div>
-        <h1 class="colorName">{{ choice3.CODE }}</h1>
+        <div class="color" :style="{ 'background-color': '#' + choice3.HEX }">
+          <h2 class="colorName">{{ choice3.CODE }}</h2>
+        </div>
       </div>
       <div class="choice">
-        <div class="color" :style="{ 'background-color': '#' + choice4.HEX }"></div>
-        <h1 class="colorName">{{ choice4.CODE }}</h1>
+        <div class="color" :style="{ 'background-color': '#' + choice4.HEX }">
+          <h2 class="colorName">{{ choice4.CODE }}</h2>
+        </div>
       </div>
     </div>
     <h2 class="btn" @click="random()">สุ่ม</h2>

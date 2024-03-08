@@ -40,6 +40,8 @@ body {
   aspect-ratio: 1/ 1;
   margin: auto;
   border-radius: 1em;
+  display: grid;
+  place-content: center;
 }
 
 .btn {
@@ -52,4 +54,9 @@ body {
   margin: 0 1em;
   border-radius: 1em;
   cursor: pointer;
+}
+
+.colorName {
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
 }
