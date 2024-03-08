@@ -1,0 +1,1922 @@
+[
+  {
+    "CODE": "A1",
+    "HEX": "602d12"
+  },
+  {
+    "CODE": "A2",
+    "HEX": "6d2914"
+  },
+  {
+    "CODE": "A3",
+    "HEX": 772319
+  },
+  {
+    "CODE": "A4",
+    "HEX": "84211c"
+  },
+  {
+    "CODE": "A5",
+    "HEX": "961e1f"
+  },
+  {
+    "CODE": "A6",
+    "HEX": "9f1c22"
+  },
+  {
+    "CODE": "A7",
+    "HEX": "ae1f23"
+  },
+  {
+    "CODE": "A8",
+    "HEX": "c52128"
+  },
+  {
+    "CODE": "A9",
+    "HEX": "de2128"
+  },
+  {
+    "CODE": "A10",
+    "HEX": "ec2127"
+  },
+  {
+    "CODE": "A11",
+    "HEX": "ee2128"
+  },
+  {
+    "CODE": "A12",
+    "HEX": "ed2027"
+  },
+  {
+    "CODE": "A13",
+    "HEX": "ec1e32"
+  },
+  {
+    "CODE": "A14",
+    "HEX": "ed1d3b"
+  },
+  {
+    "CODE": "A15",
+    "HEX": "ec1e4c"
+  },
+  {
+    "CODE": "A16",
+    "HEX": "ec1853"
+  },
+  {
+    "CODE": "A17",
+    "HEX": "e31567"
+  },
+  {
+    "CODE": "A18",
+    "HEX": "e01177"
+  },
+  {
+    "CODE": "A19",
+    "HEX": "d70d8a"
+  },
+  {
+    "CODE": "A20",
+    "HEX": "d4198b"
+  },
+  {
+    "CODE": "A21",
+    "HEX": "cb2892"
+  },
+  {
+    "CODE": "A22",
+    "HEX": "b83194"
+  },
+  {
+    "CODE": "A23",
+    "HEX": "b33591"
+  },
+  {
+    "CODE": "A24",
+    "HEX": "a83a92"
+  },
+  {
+    "CODE": "A25",
+    "HEX": "a03795"
+  },
+  {
+    "CODE": "A26",
+    "HEX": 973799
+  },
+  {
+    "CODE": "A27",
+    "HEX": "8c3d98"
+  },
+  {
+    "CODE": "A28",
+    "HEX": 8.73E+100
+  },
+  {
+    "CODE": "A29",
+    "HEX": "7d3e99"
+  },
+  {
+    "CODE": "A30",
+    "HEX": "74429b"
+  },
+  {
+    "CODE": "B1",
+    "HEX": "8b4a22"
+  },
+  {
+    "CODE": "B2",
+    "HEX": 934723
+  },
+  {
+    "CODE": "B3",
+    "HEX": "9d4021"
+  },
+  {
+    "CODE": "B4",
+    "HEX": "af4028"
+  },
+  {
+    "CODE": "B5",
+    "HEX": "be3727"
+  },
+  {
+    "CODE": "B6",
+    "HEX": "c72e29"
+  },
+  {
+    "CODE": "B7",
+    "HEX": "d62827"
+  },
+  {
+    "CODE": "B8",
+    "HEX": "e62327"
+  },
+  {
+    "CODE": "B9",
+    "HEX": "f0382e"
+  },
+  {
+    "CODE": "B10",
+    "HEX": "f23d42"
+  },
+  {
+    "CODE": "B11",
+    "HEX": "f14052"
+  },
+  {
+    "CODE": "B12",
+    "HEX": "ee273c"
+  },
+  {
+    "CODE": "B13",
+    "HEX": "e92346"
+  },
+  {
+    "CODE": "B14",
+    "HEX": "ef234f"
+  },
+  {
+    "CODE": "B15",
+    "HEX": "f11f5e"
+  },
+  {
+    "CODE": "B16",
+    "HEX": "ea1a71"
+  },
+  {
+    "CODE": "B17",
+    "HEX": "f0127c"
+  },
+  {
+    "CODE": "B18",
+    "HEX": "e6158d"
+  },
+  {
+    "CODE": "B19",
+    "HEX": "dc2b90"
+  },
+  {
+    "CODE": "B20",
+    "HEX": "cf3994"
+  },
+  {
+    "CODE": "B21",
+    "HEX": "c03f9b"
+  },
+  {
+    "CODE": "B22",
+    "HEX": "b43d97"
+  },
+  {
+    "CODE": "B23",
+    "HEX": "a83c98"
+  },
+  {
+    "CODE": "B24",
+    "HEX": "9e4098"
+  },
+  {
+    "CODE": "B25",
+    "HEX": "943f98"
+  },
+  {
+    "CODE": "B26",
+    "HEX": "8e3f9b"
+  },
+  {
+    "CODE": "B27",
+    "HEX": "883e9a"
+  },
+  {
+    "CODE": "B28",
+    "HEX": "7e3d9a"
+  },
+  {
+    "CODE": "B29",
+    "HEX": "733d9a"
+  },
+  {
+    "CODE": "B30",
+    "HEX": "673d99"
+  },
+  {
+    "CODE": "C1",
+    "HEX": "a76229"
+  },
+  {
+    "CODE": "C2",
+    "HEX": "ad5a26"
+  },
+  {
+    "CODE": "C3",
+    "HEX": "bd5c29"
+  },
+  {
+    "CODE": "C4",
+    "HEX": "c34f2a"
+  },
+  {
+    "CODE": "C5",
+    "HEX": "cf482b"
+  },
+  {
+    "CODE": "C6",
+    "HEX": "d64028"
+  },
+  {
+    "CODE": "C7",
+    "HEX": "e13b25"
+  },
+  {
+    "CODE": "C8",
+    "HEX": "eb3528"
+  },
+  {
+    "CODE": "C9",
+    "HEX": "f0382e"
+  },
+  {
+    "CODE": "C10",
+    "HEX": "f23d42"
+  },
+  {
+    "CODE": "C11",
+    "HEX": "f14052"
+  },
+  {
+    "CODE": "C12",
+    "HEX": "f03f53"
+  },
+  {
+    "CODE": "C13",
+    "HEX": "ef3b5e"
+  },
+  {
+    "CODE": "C14",
+    "HEX": "f53066"
+  },
+  {
+    "CODE": "C15",
+    "HEX": "f0327a"
+  },
+  {
+    "CODE": "C16",
+    "HEX": "f12f86"
+  },
+  {
+    "CODE": "C17",
+    "HEX": "e93596"
+  },
+  {
+    "CODE": "C18",
+    "HEX": "db4698"
+  },
+  {
+    "CODE": "C19",
+    "HEX": "cd4d9b"
+  },
+  {
+    "CODE": "C20",
+    "HEX": "ba4d98"
+  },
+  {
+    "CODE": "C21",
+    "HEX": "b64b9d"
+  },
+  {
+    "CODE": "C22",
+    "HEX": "a6489a"
+  },
+  {
+    "CODE": "C23",
+    "HEX": "a04598"
+  },
+  {
+    "CODE": "C24",
+    "HEX": "99429a"
+  },
+  {
+    "CODE": "C25",
+    "HEX": "8b449b"
+  },
+  {
+    "CODE": "C26",
+    "HEX": 844095
+  },
+  {
+    "CODE": "C27",
+    "HEX": "7a3d9a"
+  },
+  {
+    "CODE": "C28",
+    "HEX": "743d98"
+  },
+  {
+    "CODE": "C29",
+    "HEX": "6b3a96"
+  },
+  {
+    "CODE": "C30",
+    "HEX": "5d3392"
+  },
+  {
+    "CODE": "D1",
+    "HEX": "cb812c"
+  },
+  {
+    "CODE": "D2",
+    "HEX": "d7812a"
+  },
+  {
+    "CODE": "D3",
+    "HEX": "dd7627"
+  },
+  {
+    "CODE": "D4",
+    "HEX": "e97926"
+  },
+  {
+    "CODE": "D5",
+    "HEX": "e96a25"
+  },
+  {
+    "CODE": "D6",
+    "HEX": "e95e27"
+  },
+  {
+    "CODE": "D7",
+    "HEX": "f55f2c"
+  },
+  {
+    "CODE": "D8",
+    "HEX": "f05735"
+  },
+  {
+    "CODE": "D9",
+    "HEX": "ef5346"
+  },
+  {
+    "CODE": "D10",
+    "HEX": "f25953"
+  },
+  {
+    "CODE": "D11",
+    "HEX": "f15e66"
+  },
+  {
+    "CODE": "D12",
+    "HEX": "f05e6b"
+  },
+  {
+    "CODE": "D13",
+    "HEX": "f25a6f"
+  },
+  {
+    "CODE": "D14",
+    "HEX": "f15481"
+  },
+  {
+    "CODE": "D15",
+    "HEX": "f0508c"
+  },
+  {
+    "CODE": "D16",
+    "HEX": "f04f9d"
+  },
+  {
+    "CODE": "D17",
+    "HEX": "e1559c"
+  },
+  {
+    "CODE": "D18",
+    "HEX": "cc58a0"
+  },
+  {
+    "CODE": "D19",
+    "HEX": "c15da7"
+  },
+  {
+    "CODE": "D20",
+    "HEX": "b957a4"
+  },
+  {
+    "CODE": "D21",
+    "HEX": "a853a5"
+  },
+  {
+    "CODE": "D22",
+    "HEX": "9d4e9f"
+  },
+  {
+    "CODE": "D23",
+    "HEX": "944c9d"
+  },
+  {
+    "CODE": "D24",
+    "HEX": "8a4b9c"
+  },
+  {
+    "CODE": "D25",
+    "HEX": "81469a"
+  },
+  {
+    "CODE": "D26",
+    "HEX": "7b439f"
+  },
+  {
+    "CODE": "D27",
+    "HEX": "703e9d"
+  },
+  {
+    "CODE": "D28",
+    "HEX": 663996
+  },
+  {
+    "CODE": "D29",
+    "HEX": 593494
+  },
+  {
+    "CODE": "D30",
+    "HEX": 483088
+  },
+  {
+    "CODE": "E1",
+    "HEX": "e99b25"
+  },
+  {
+    "CODE": "E2",
+    "HEX": "f19820"
+  },
+  {
+    "CODE": "E3",
+    "HEX": "f89223"
+  },
+  {
+    "CODE": "E4",
+    "HEX": "f88c21"
+  },
+  {
+    "CODE": "E5",
+    "HEX": "f88525"
+  },
+  {
+    "CODE": "E6",
+    "HEX": "f3792c"
+  },
+  {
+    "CODE": "E7",
+    "HEX": "f6783e"
+  },
+  {
+    "CODE": "E8",
+    "HEX": "f66c45"
+  },
+  {
+    "CODE": "E9",
+    "HEX": "f26f51"
+  },
+  {
+    "CODE": "E10",
+    "HEX": "f47668"
+  },
+  {
+    "CODE": "E11",
+    "HEX": "f47775"
+  },
+  {
+    "CODE": "E12",
+    "HEX": "f47681"
+  },
+  {
+    "CODE": "E13",
+    "HEX": "f2778c"
+  },
+  {
+    "CODE": "E14",
+    "HEX": "f27295"
+  },
+  {
+    "CODE": "E15",
+    "HEX": "f167a3"
+  },
+  {
+    "CODE": "E16",
+    "HEX": "e96fac"
+  },
+  {
+    "CODE": "E17",
+    "HEX": "d572b2"
+  },
+  {
+    "CODE": "E18",
+    "HEX": "c671b4"
+  },
+  {
+    "CODE": "E19",
+    "HEX": "bb72ab"
+  },
+  {
+    "CODE": "E20",
+    "HEX": "b067af"
+  },
+  {
+    "CODE": "E21",
+    "HEX": "a25fac"
+  },
+  {
+    "CODE": "E22",
+    "HEX": "945aa3"
+  },
+  {
+    "CODE": "E23",
+    "HEX": "9055a9"
+  },
+  {
+    "CODE": "E24",
+    "HEX": "8651a3"
+  },
+  {
+    "CODE": "E25",
+    "HEX": "7d499c"
+  },
+  {
+    "CODE": "E26",
+    "HEX": "70469d"
+  },
+  {
+    "CODE": "E27",
+    "HEX": "633f99"
+  },
+  {
+    "CODE": "E28",
+    "HEX": 593494
+  },
+  {
+    "CODE": "E29",
+    "HEX": "4b3194"
+  },
+  {
+    "CODE": "E30",
+    "HEX": "352f85"
+  },
+  {
+    "CODE": "F1",
+    "HEX": "f8b619"
+  },
+  {
+    "CODE": "F2",
+    "HEX": "ffb020"
+  },
+  {
+    "CODE": "F3",
+    "HEX": "f9ac2c"
+  },
+  {
+    "CODE": "F4",
+    "HEX": "f8ab3b"
+  },
+  {
+    "CODE": "F5",
+    "HEX": "fba840"
+  },
+  {
+    "CODE": "F6",
+    "HEX": "faa44f"
+  },
+  {
+    "CODE": "F7",
+    "HEX": "f69753"
+  },
+  {
+    "CODE": "F8",
+    "HEX": "f99060"
+  },
+  {
+    "CODE": "F9",
+    "HEX": "f48862"
+  },
+  {
+    "CODE": "F10",
+    "HEX": "f68972"
+  },
+  {
+    "CODE": "F11",
+    "HEX": "f78e88"
+  },
+  {
+    "CODE": "F12",
+    "HEX": "f58e91"
+  },
+  {
+    "CODE": "F13",
+    "HEX": "f38e9c"
+  },
+  {
+    "CODE": "F14",
+    "HEX": "f28da3"
+  },
+  {
+    "CODE": "F15",
+    "HEX": "f487b6"
+  },
+  {
+    "CODE": "F16",
+    "HEX": "e38cba"
+  },
+  {
+    "CODE": "F17",
+    "HEX": "d48bc0"
+  },
+  {
+    "CODE": "F18",
+    "HEX": "c58abd"
+  },
+  {
+    "CODE": "F19",
+    "HEX": "bb82b8"
+  },
+  {
+    "CODE": "F20",
+    "HEX": "ae78bc"
+  },
+  {
+    "CODE": "F21",
+    "HEX": "9c74b3"
+  },
+  {
+    "CODE": "F22",
+    "HEX": "9c74b3"
+  },
+  {
+    "CODE": "F23",
+    "HEX": "8561a7"
+  },
+  {
+    "CODE": "F24",
+    "HEX": "7c5aa6"
+  },
+  {
+    "CODE": "F25",
+    "HEX": "7454a2"
+  },
+  {
+    "CODE": "F26",
+    "HEX": "644b9f"
+  },
+  {
+    "CODE": "F27",
+    "HEX": "5b429d"
+  },
+  {
+    "CODE": "F28",
+    "HEX": "4d3394"
+  },
+  {
+    "CODE": "F29",
+    "HEX": "38318e"
+  },
+  {
+    "CODE": "F30",
+    "HEX": "302c79"
+  },
+  {
+    "CODE": "G1",
+    "HEX": "fcbf19"
+  },
+  {
+    "CODE": "G2",
+    "HEX": "ffbf2a"
+  },
+  {
+    "CODE": "G3",
+    "HEX": "ffb82c"
+  },
+  {
+    "CODE": "G4",
+    "HEX": "fcb736"
+  },
+  {
+    "CODE": "G5",
+    "HEX": "fdba5f"
+  },
+  {
+    "CODE": "G6",
+    "HEX": "f8ab54"
+  },
+  {
+    "CODE": "G7",
+    "HEX": "feab5f"
+  },
+  {
+    "CODE": "G8",
+    "HEX": "f8a26f"
+  },
+  {
+    "CODE": "G9",
+    "HEX": "f8a37c"
+  },
+  {
+    "CODE": "G10",
+    "HEX": "faa085"
+  },
+  {
+    "CODE": "G11",
+    "HEX": "f69f96"
+  },
+  {
+    "CODE": "G12",
+    "HEX": "f79d9c"
+  },
+  {
+    "CODE": "G13",
+    "HEX": "f69ca6"
+  },
+  {
+    "CODE": "G14",
+    "HEX": "f89cab"
+  },
+  {
+    "CODE": "G15",
+    "HEX": "f59bc5"
+  },
+  {
+    "CODE": "G16",
+    "HEX": "e1a5c9"
+  },
+  {
+    "CODE": "G17",
+    "HEX": "d0a7cf"
+  },
+  {
+    "CODE": "G18",
+    "HEX": "c58abd"
+  },
+  {
+    "CODE": "G19",
+    "HEX": "b59ac5"
+  },
+  {
+    "CODE": "G20",
+    "HEX": "a98ac2"
+  },
+  {
+    "CODE": "G21",
+    "HEX": "9e81c1"
+  },
+  {
+    "CODE": "G22",
+    "HEX": "8d76ba"
+  },
+  {
+    "CODE": "G23",
+    "HEX": "816db2"
+  },
+  {
+    "CODE": "G24",
+    "HEX": "7465ab"
+  },
+  {
+    "CODE": "G25",
+    "HEX": "695eac"
+  },
+  {
+    "CODE": "G26",
+    "HEX": "5b57a4"
+  },
+  {
+    "CODE": "G27",
+    "HEX": "524ca2"
+  },
+  {
+    "CODE": "G28",
+    "HEX": "43439b"
+  },
+  {
+    "CODE": "G29",
+    "HEX": 343796
+  },
+  {
+    "CODE": "G30",
+    "HEX": 303184
+  },
+  {
+    "CODE": "H1",
+    "HEX": "fcd019"
+  },
+  {
+    "CODE": "H2",
+    "HEX": "ffce2b"
+  },
+  {
+    "CODE": "H3",
+    "HEX": "ffc931"
+  },
+  {
+    "CODE": "H4",
+    "HEX": "fec93f"
+  },
+  {
+    "CODE": "H5",
+    "HEX": "ffc64e"
+  },
+  {
+    "CODE": "H6",
+    "HEX": "fdbf58"
+  },
+  {
+    "CODE": "H7",
+    "HEX": "fbba5d"
+  },
+  {
+    "CODE": "H8",
+    "HEX": "fdb86c"
+  },
+  {
+    "CODE": "H9",
+    "HEX": "fab37b"
+  },
+  {
+    "CODE": "H10",
+    "HEX": "faae84"
+  },
+  {
+    "CODE": "H11",
+    "HEX": "faad8f"
+  },
+  {
+    "CODE": "H12",
+    "HEX": "fab19e"
+  },
+  {
+    "CODE": "H13",
+    "HEX": "f5b7ac"
+  },
+  {
+    "CODE": "H14",
+    "HEX": "f5b6b2"
+  },
+  {
+    "CODE": "H15",
+    "HEX": "ecb5c8"
+  },
+  {
+    "CODE": "H16",
+    "HEX": "d8b6d7"
+  },
+  {
+    "CODE": "H17",
+    "HEX": "cdb7db"
+  },
+  {
+    "CODE": "H18",
+    "HEX": "ccbdde"
+  },
+  {
+    "CODE": "H19",
+    "HEX": "b5aad4"
+  },
+  {
+    "CODE": "H20",
+    "HEX": "a6a0cf"
+  },
+  {
+    "CODE": "H21",
+    "HEX": "9895cb"
+  },
+  {
+    "CODE": "H22",
+    "HEX": "8588c4"
+  },
+  {
+    "CODE": "H23",
+    "HEX": "767cbb"
+  },
+  {
+    "CODE": "H24",
+    "HEX": "6c77b9"
+  },
+  {
+    "CODE": "H25",
+    "HEX": "5e6ab6"
+  },
+  {
+    "CODE": "H26",
+    "HEX": "5462ad"
+  },
+  {
+    "CODE": "H27",
+    "HEX": "495aa8"
+  },
+  {
+    "CODE": "H28",
+    "HEX": "3e50a6"
+  },
+  {
+    "CODE": "H29",
+    "HEX": "2e469c"
+  },
+  {
+    "CODE": "H30",
+    "HEX": "243c92"
+  },
+  {
+    "CODE": "I1",
+    "HEX": "fede0f"
+  },
+  {
+    "CODE": "I2",
+    "HEX": "feda24"
+  },
+  {
+    "CODE": "I3",
+    "HEX": "fbd932"
+  },
+  {
+    "CODE": "I4",
+    "HEX": "fdd944"
+  },
+  {
+    "CODE": "I5",
+    "HEX": "fddf4d"
+  },
+  {
+    "CODE": "I6",
+    "HEX": "fdda5a"
+  },
+  {
+    "CODE": "I7",
+    "HEX": "fadc62"
+  },
+  {
+    "CODE": "I8",
+    "HEX": "fdd76c"
+  },
+  {
+    "CODE": "I9",
+    "HEX": "f7da7c"
+  },
+  {
+    "CODE": "I10",
+    "HEX": "f1e090"
+  },
+  {
+    "CODE": "I11",
+    "HEX": "eedba0"
+  },
+  {
+    "CODE": "I12",
+    "HEX": "ebe3b5"
+  },
+  {
+    "CODE": "I13",
+    "HEX": "e0dec0"
+  },
+  {
+    "CODE": "I14",
+    "HEX": "dee3cd"
+  },
+  {
+    "CODE": "I15",
+    "HEX": "d4dfd3"
+  },
+  {
+    "CODE": "I16",
+    "HEX": "c6dfe6"
+  },
+  {
+    "CODE": "I17",
+    "HEX": "c3daf1"
+  },
+  {
+    "CODE": "I18",
+    "HEX": "c3daf4"
+  },
+  {
+    "CODE": "I19",
+    "HEX": "a5c9eb"
+  },
+  {
+    "CODE": "I20",
+    "HEX": "9cb7e5"
+  },
+  {
+    "CODE": "I21",
+    "HEX": "8caada"
+  },
+  {
+    "CODE": "I22",
+    "HEX": "7aa2d4"
+  },
+  {
+    "CODE": "I23",
+    "HEX": "7391cf"
+  },
+  {
+    "CODE": "I24",
+    "HEX": "6487c1"
+  },
+  {
+    "CODE": "I25",
+    "HEX": "5779b9"
+  },
+  {
+    "CODE": "I26",
+    "HEX": "4e6cb2"
+  },
+  {
+    "CODE": "I27",
+    "HEX": "4363b0"
+  },
+  {
+    "CODE": "I28",
+    "HEX": "3c5bab"
+  },
+  {
+    "CODE": "I29",
+    "HEX": "3451a5"
+  },
+  {
+    "CODE": "I30",
+    "HEX": "28489b"
+  },
+  {
+    "CODE": "J1",
+    "HEX": "f9eb26"
+  },
+  {
+    "CODE": "J2",
+    "HEX": "f9eb28"
+  },
+  {
+    "CODE": "J3",
+    "HEX": "fbeb36"
+  },
+  {
+    "CODE": "J4",
+    "HEX": "f8ef4c"
+  },
+  {
+    "CODE": "J5",
+    "HEX": "f8ee51"
+  },
+  {
+    "CODE": "J6",
+    "HEX": "faef62"
+  },
+  {
+    "CODE": "J7",
+    "HEX": "f6ef6d"
+  },
+  {
+    "CODE": "J8",
+    "HEX": "efed86"
+  },
+  {
+    "CODE": "J9",
+    "HEX": "e7eb8c"
+  },
+  {
+    "CODE": "J10",
+    "HEX": "e2ea9f"
+  },
+  {
+    "CODE": "J11",
+    "HEX": "d8eab3"
+  },
+  {
+    "CODE": "J12",
+    "HEX": "d5eac3"
+  },
+  {
+    "CODE": "J13",
+    "HEX": "d1eacd"
+  },
+  {
+    "CODE": "J14",
+    "HEX": "d2e7d4"
+  },
+  {
+    "CODE": "J15",
+    "HEX": "c7e6d4"
+  },
+  {
+    "CODE": "J16",
+    "HEX": "bde2e8"
+  },
+  {
+    "CODE": "J17",
+    "HEX": "b4e4f1"
+  },
+  {
+    "CODE": "J18",
+    "HEX": "b3e3fa"
+  },
+  {
+    "CODE": "J19",
+    "HEX": "a5d9f6"
+  },
+  {
+    "CODE": "J20",
+    "HEX": "8ad3f4"
+  },
+  {
+    "CODE": "J21",
+    "HEX": "7fc7f0"
+  },
+  {
+    "CODE": "J22",
+    "HEX": "72b5ea"
+  },
+  {
+    "CODE": "J23",
+    "HEX": "64a8e1"
+  },
+  {
+    "CODE": "J24",
+    "HEX": "5999d2"
+  },
+  {
+    "CODE": "J25",
+    "HEX": "5289c9"
+  },
+  {
+    "CODE": "J26",
+    "HEX": "4a7dbe"
+  },
+  {
+    "CODE": "J27",
+    "HEX": "426fb7"
+  },
+  {
+    "CODE": "J28",
+    "HEX": "3e62b0"
+  },
+  {
+    "CODE": "J29",
+    "HEX": "375baf"
+  },
+  {
+    "CODE": "J30",
+    "HEX": "3252a8"
+  },
+  {
+    "CODE": "K1",
+    "HEX": "f2eb43"
+  },
+  {
+    "CODE": "K2",
+    "HEX": "f6ed47"
+  },
+  {
+    "CODE": "K3",
+    "HEX": "f7eb4b"
+  },
+  {
+    "CODE": "K4",
+    "HEX": "f4ea4e"
+  },
+  {
+    "CODE": "K5",
+    "HEX": "efeb5e"
+  },
+  {
+    "CODE": "K6",
+    "HEX": "ebec6d"
+  },
+  {
+    "CODE": "K7",
+    "HEX": "e8e67f"
+  },
+  {
+    "CODE": "K8",
+    "HEX": "e2e484"
+  },
+  {
+    "CODE": "K9",
+    "HEX": "d9e486"
+  },
+  {
+    "CODE": "K10",
+    "HEX": "cae08e"
+  },
+  {
+    "CODE": "K11",
+    "HEX": "c0dd99"
+  },
+  {
+    "CODE": "K12",
+    "HEX": "b8dba5"
+  },
+  {
+    "CODE": "K13",
+    "HEX": "b4dbaf"
+  },
+  {
+    "CODE": "K14",
+    "HEX": "b4dbaf"
+  },
+  {
+    "CODE": "K15",
+    "HEX": "b0ddc6"
+  },
+  {
+    "CODE": "K16",
+    "HEX": "acddd7"
+  },
+  {
+    "CODE": "K17",
+    "HEX": "a9ddde"
+  },
+  {
+    "CODE": "K18",
+    "HEX": "addbe0"
+  },
+  {
+    "CODE": "K19",
+    "HEX": "9ed7ea"
+  },
+  {
+    "CODE": "K20",
+    "HEX": "8ad4f1"
+  },
+  {
+    "CODE": "K21",
+    "HEX": "75d2fa"
+  },
+  {
+    "CODE": "K22",
+    "HEX": "5dcdf2"
+  },
+  {
+    "CODE": "K23",
+    "HEX": "61bdf0"
+  },
+  {
+    "CODE": "K24",
+    "HEX": "58a9dc"
+  },
+  {
+    "CODE": "K25",
+    "HEX": "5799d3"
+  },
+  {
+    "CODE": "K26",
+    "HEX": "438ad3"
+  },
+  {
+    "CODE": "K27",
+    "HEX": "407fc2"
+  },
+  {
+    "CODE": "K28",
+    "HEX": "3f71b9"
+  },
+  {
+    "CODE": "K29",
+    "HEX": "3a67ad"
+  },
+  {
+    "CODE": "K30",
+    "HEX": "375dac"
+  },
+  {
+    "CODE": "L1",
+    "HEX": "f5e925"
+  },
+  {
+    "CODE": "L2",
+    "HEX": "efe92f"
+  },
+  {
+    "CODE": "L3",
+    "HEX": "eee838"
+  },
+  {
+    "CODE": "L4",
+    "HEX": "e8e73f"
+  },
+  {
+    "CODE": "L5",
+    "HEX": "e7e545"
+  },
+  {
+    "CODE": "L6",
+    "HEX": "dee355"
+  },
+  {
+    "CODE": "L7",
+    "HEX": "d1e062"
+  },
+  {
+    "CODE": "L8",
+    "HEX": "c1d96b"
+  },
+  {
+    "CODE": "L9",
+    "HEX": "b2d66c"
+  },
+  {
+    "CODE": "L10",
+    "HEX": "aad176"
+  },
+  {
+    "CODE": "L11",
+    "HEX": "9fd081"
+  },
+  {
+    "CODE": "L12",
+    "HEX": "97ce8a"
+  },
+  {
+    "CODE": "L13",
+    "HEX": "93ce96"
+  },
+  {
+    "CODE": "L14",
+    "HEX": "8bd39b"
+  },
+  {
+    "CODE": "L15",
+    "HEX": "8fd0a8"
+  },
+  {
+    "CODE": "L16",
+    "HEX": "8eceb3"
+  },
+  {
+    "CODE": "L17",
+    "HEX": "90d0c0"
+  },
+  {
+    "CODE": "L18",
+    "HEX": "8bd2c4"
+  },
+  {
+    "CODE": "L19",
+    "HEX": "84cfc9"
+  },
+  {
+    "CODE": "L20",
+    "HEX": "7aced6"
+  },
+  {
+    "CODE": "L21",
+    "HEX": "72c8da"
+  },
+  {
+    "CODE": "L22",
+    "HEX": "5ac6e2"
+  },
+  {
+    "CODE": "L23",
+    "HEX": "3dc6ee"
+  },
+  {
+    "CODE": "L24",
+    "HEX": "40b7ef"
+  },
+  {
+    "CODE": "L25",
+    "HEX": "3aa9df"
+  },
+  {
+    "CODE": "L26",
+    "HEX": "3b9ada"
+  },
+  {
+    "CODE": "L27",
+    "HEX": "438acb"
+  },
+  {
+    "CODE": "L28",
+    "HEX": "3d79b7"
+  },
+  {
+    "CODE": "L29",
+    "HEX": "3f71ba"
+  },
+  {
+    "CODE": "L30",
+    "HEX": "3465b2"
+  },
+  {
+    "CODE": "M1",
+    "HEX": "e1e328"
+  },
+  {
+    "CODE": "M2",
+    "HEX": "dbe02c"
+  },
+  {
+    "CODE": "M3",
+    "HEX": "d8df30"
+  },
+  {
+    "CODE": "M4",
+    "HEX": "d2df38"
+  },
+  {
+    "CODE": "M5",
+    "HEX": "c8db41"
+  },
+  {
+    "CODE": "M6",
+    "HEX": "dee355"
+  },
+  {
+    "CODE": "M7",
+    "HEX": "add24f"
+  },
+  {
+    "CODE": "M8",
+    "HEX": "a0ce54"
+  },
+  {
+    "CODE": "M9",
+    "HEX": "91c95a"
+  },
+  {
+    "CODE": "M10",
+    "HEX": "88c963"
+  },
+  {
+    "CODE": "M11",
+    "HEX": "75c468"
+  },
+  {
+    "CODE": "M12",
+    "HEX": "73c271"
+  },
+  {
+    "CODE": "M13",
+    "HEX": "6fc27a"
+  },
+  {
+    "CODE": "M14",
+    "HEX": "6bc386"
+  },
+  {
+    "CODE": "M15",
+    "HEX": "70c08b"
+  },
+  {
+    "CODE": "M16",
+    "HEX": "73c595"
+  },
+  {
+    "CODE": "M17",
+    "HEX": "6fc69b"
+  },
+  {
+    "CODE": "M18",
+    "HEX": "78c5a9"
+  },
+  {
+    "CODE": "M19",
+    "HEX": "78c7ac"
+  },
+  {
+    "CODE": "M20",
+    "HEX": "70c4b2"
+  },
+  {
+    "CODE": "M21",
+    "HEX": "62c6ba"
+  },
+  {
+    "CODE": "M22",
+    "HEX": "57c2cc"
+  },
+  {
+    "CODE": "M23",
+    "HEX": "4ac2d3"
+  },
+  {
+    "CODE": "M24",
+    "HEX": "30c1df"
+  },
+  {
+    "CODE": "M25",
+    "HEX": "1ebae4"
+  },
+  {
+    "CODE": "M26",
+    "HEX": "1aace1"
+  },
+  {
+    "CODE": "M27",
+    "HEX": "2a9bd9"
+  },
+  {
+    "CODE": "M28",
+    "HEX": "3490cf"
+  },
+  {
+    "CODE": "M29",
+    "HEX": "3081c2"
+  },
+  {
+    "CODE": "M30",
+    "HEX": "2e72b9"
+  },
+  {
+    "CODE": "N1",
+    "HEX": "c2d82e"
+  },
+  {
+    "CODE": "N2",
+    "HEX": "bed432"
+  },
+  {
+    "CODE": "N3",
+    "HEX": "b2d439"
+  },
+  {
+    "CODE": "N4",
+    "HEX": "a9d03a"
+  },
+  {
+    "CODE": "N5",
+    "HEX": "a0ce36"
+  },
+  {
+    "CODE": "N6",
+    "HEX": "97ca3f"
+  },
+  {
+    "CODE": "N7",
+    "HEX": "82c144"
+  },
+  {
+    "CODE": "N8",
+    "HEX": "79c144"
+  },
+  {
+    "CODE": "N9",
+    "HEX": "6dbc45"
+  },
+  {
+    "CODE": "N10",
+    "HEX": "5fb348"
+  },
+  {
+    "CODE": "N11",
+    "HEX": "56b34b"
+  },
+  {
+    "CODE": "N12",
+    "HEX": "50b454"
+  },
+  {
+    "CODE": "N13",
+    "HEX": "4cb759"
+  },
+  {
+    "CODE": "N14",
+    "HEX": "4cb767"
+  },
+  {
+    "CODE": "N15",
+    "HEX": "54ba70"
+  },
+  {
+    "CODE": "N16",
+    "HEX": "57bd7d"
+  },
+  {
+    "CODE": "N17",
+    "HEX": "52c17c"
+  },
+  {
+    "CODE": "N18",
+    "HEX": "5dc08a"
+  },
+  {
+    "CODE": "N19",
+    "HEX": "61bf8c"
+  },
+  {
+    "CODE": "N20",
+    "HEX": "60c395"
+  },
+  {
+    "CODE": "N21",
+    "HEX": "5cc09e"
+  },
+  {
+    "CODE": "N22",
+    "HEX": "4fc1ab"
+  },
+  {
+    "CODE": "N23",
+    "HEX": "43c2b3"
+  },
+  {
+    "CODE": "N24",
+    "HEX": "3abdc5"
+  },
+  {
+    "CODE": "N25",
+    "HEX": "31bccf"
+  },
+  {
+    "CODE": "N26",
+    "HEX": "11bad7"
+  },
+  {
+    "CODE": "N27",
+    "HEX": "12b0df"
+  },
+  {
+    "CODE": "N28",
+    "HEX": "18a3df"
+  },
+  {
+    "CODE": "N29",
+    "HEX": "2596d7"
+  },
+  {
+    "CODE": "N30",
+    "HEX": "2784c7"
+  },
+  {
+    "CODE": "O1",
+    "HEX": "a2c23f"
+  },
+  {
+    "CODE": "O2",
+    "HEX": "9bc53b"
+  },
+  {
+    "CODE": "O3",
+    "HEX": "94c23c"
+  },
+  {
+    "CODE": "O4",
+    "HEX": "88bf3f"
+  },
+  {
+    "CODE": "O5",
+    "HEX": "7dbd44"
+  },
+  {
+    "CODE": "O6",
+    "HEX": "68b546"
+  },
+  {
+    "CODE": "O7",
+    "HEX": "63ae45"
+  },
+  {
+    "CODE": "O8",
+    "HEX": "57a946"
+  },
+  {
+    "CODE": "O9",
+    "HEX": "4fa648"
+  },
+  {
+    "CODE": "O10",
+    "HEX": "419d4a"
+  },
+  {
+    "CODE": "O11",
+    "HEX": "359c4a"
+  },
+  {
+    "CODE": "O12",
+    "HEX": "30a249"
+  },
+  {
+    "CODE": "O13",
+    "HEX": "29ab48"
+  },
+  {
+    "CODE": "O14",
+    "HEX": "30b14c"
+  },
+  {
+    "CODE": "O15",
+    "HEX": "2db455"
+  },
+  {
+    "CODE": "O16",
+    "HEX": "3bb461"
+  },
+  {
+    "CODE": "O17",
+    "HEX": "49b462"
+  },
+  {
+    "CODE": "O18",
+    "HEX": "44ba70"
+  },
+  {
+    "CODE": "O19",
+    "HEX": "4cb976"
+  },
+  {
+    "CODE": "O20",
+    "HEX": "54bc79"
+  },
+  {
+    "CODE": "O21",
+    "HEX": "51bd89"
+  },
+  {
+    "CODE": "O22",
+    "HEX": "51bc92"
+  },
+  {
+    "CODE": "O23",
+    "HEX": "47bda2"
+  },
+  {
+    "CODE": "O24",
+    "HEX": "41bca7"
+  },
+  {
+    "CODE": "O25",
+    "HEX": "34bdb6"
+  },
+  {
+    "CODE": "O26",
+    "HEX": "2cbdcc"
+  },
+  {
+    "CODE": "O27",
+    "HEX": "23bcd4"
+  },
+  {
+    "CODE": "O28",
+    "HEX": "10b2d7"
+  },
+  {
+    "CODE": "O29",
+    "HEX": "0ea7db"
+  },
+  {
+    "CODE": "O30",
+    "HEX": "189fdd"
+  },
+  {
+    "CODE": "P1",
+    "HEX": "7da245"
+  },
+  {
+    "CODE": "P2",
+    "HEX": "78a93e"
+  },
+  {
+    "CODE": "P3",
+    "HEX": "6ea644"
+  },
+  {
+    "CODE": "P4",
+    "HEX": "66a247"
+  },
+  {
+    "CODE": "P5",
+    "HEX": "59a448"
+  },
+  {
+    "CODE": "P6",
+    "HEX": "4c9f43"
+  },
+  {
+    "CODE": "P7",
+    "HEX": "3f9a42"
+  },
+  {
+    "CODE": "P8",
+    "HEX": "3d9445"
+  },
+  {
+    "CODE": "P9",
+    "HEX": "2a9148"
+  },
+  {
+    "CODE": "P10",
+    "HEX": 218945
+  },
+  {
+    "CODE": "P11",
+    "HEX": "168c46"
+  },
+  {
+    "CODE": "P12",
+    "HEX": "1a9148"
+  },
+  {
+    "CODE": "P13",
+    "HEX": "169b48"
+  },
+  {
+    "CODE": "P14",
+    "HEX": "19a049"
+  },
+  {
+    "CODE": "P15",
+    "HEX": "1fac49"
+  },
+  {
+    "CODE": "P16",
+    "HEX": "1fac49"
+  },
+  {
+    "CODE": "P17",
+    "HEX": "2bb646"
+  },
+  {
+    "CODE": "P18",
+    "HEX": "36b559"
+  },
+  {
+    "CODE": "P19",
+    "HEX": "37b764"
+  },
+  {
+    "CODE": "P20",
+    "HEX": "3fb862"
+  },
+  {
+    "CODE": "P21",
+    "HEX": "42b86c"
+  },
+  {
+    "CODE": "P22",
+    "HEX": "37ba7f"
+  },
+  {
+    "CODE": "P23",
+    "HEX": "37b88a"
+  },
+  {
+    "CODE": "P24",
+    "HEX": "30b893"
+  },
+  {
+    "CODE": "P25",
+    "HEX": "25baa3"
+  },
+  {
+    "CODE": "P26",
+    "HEX": "1dbbad"
+  },
+  {
+    "CODE": "P27",
+    "HEX": "1dbcba"
+  },
+  {
+    "CODE": "P28",
+    "HEX": "11bdca"
+  },
+  {
+    "CODE": "P29",
+    "HEX": "08b7d3"
+  },
+  {
+    "CODE": "P30",
+    "HEX": "0cb3dd"
+  }
+]
